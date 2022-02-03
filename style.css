@@ -1,0 +1,33 @@
+.header {
+    font-size: 20px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 25px rgb(4, 70, 110);
+    font-family: 'Lobster', cursive;
+}
+
+.note {
+    font-size: 15px;
+    color:rgb(252, 174, 223);
+    font-weight: 800;
+    font-family: 'Quicksand', sans-serif;
+}
+
+.bottom_footer {
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    color: rgb(7, 72, 116);
+    font-weight: bold;
+    background-color: rgb(172, 229, 252);
+    font-size: 30px;
+    text-align: center;
+    line-height: 2;
+    font-family: 'Dongle', sans-serif;
+}
+
+canvas {
+    border: 5px ridge rgb(119, 198, 247);
+    border-radius: 25px;
+    box-shadow: 5px 5px 25px rgb(34, 100, 243);
+}
